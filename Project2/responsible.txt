@@ -1,0 +1,139 @@
+Policy
+
+Respect for one another's need for access
+
+Calvin College is a community where all members are expected to act in
+their neighbor's best interest. No enfranchised user may appropriate
+information technology resources that interfere with the educational,
+research, or service activities of the college or the administration
+thereof.
+
+Examples of technology appropriation which do not respect one another's
+need for access include but are not limited to:
+
+Anything that negatively affects the college's network bandwidth (e.g.,
+running any program that generates a large volume of network traffic)
+
+Destruction or potential destruction of resources by the use, ownership,
+or distribution of viruses, worms, Trojan horses, spam, spyware, chain
+email or other destructive programs Respect for one another's values
+and feelings
+
+New technologies often increase our ability to communicate as well as
+miscommunicate. That communication should demonstrate respect for others
+and a sense of personal integrity. Ephesians 4:29 is applicable here:
+"Do not let any unwholesome talk come out of your mouths, but only what
+is helpful for building others up according to their needs, that it may
+benefit those who listen." Thus, communication that degrades or harasses
+individuals or groups is unacceptable.
+
+The need to communicate with respect and integrity is particularly
+important in our contacts with those outside of Calvin College. Our
+communications will reflect not only on the college but also on our
+witness as Christians.
+
+Examples of technology use that do not respect one another’s values and
+feelings include but are not limited to:
+
+Messages that intimidate, harass, threaten or embarrass (e.g., email,
+IM, voicemail, web pages, web logs)
+
+Respect for one another's property
+
+Theft or unauthorized use of tangible property, intellectual property,
+college data, or college information technology resources will not be
+tolerated. Such theft is both unethical and illegal, and can subject
+both the individual as well as the college to prosecution.
+
+Examples of technology use that do not respect one another's property
+include but are not limited to:
+
+Unauthorized copying of copyrighted software (software piracy), documents,
+and intellectual property including music and movies
+
+Unauthorized access of someone else's account
+
+Unauthorized access of any of the college's information technology
+resources
+
+The unauthorized sending of messages or publishing of information under
+someone else's username
+
+Using college information technology resources for illegal, commercial,
+profit-making, or any other purposes other than those approved by
+the college
+
+Granting access to the college's information technology resources
+to non-enfranchised users (e.g., giving out your password so an
+unenfranchised user can access the college's information technology
+resources)
+
+Use of unauthorized software or devices on the college network that
+bypass the college's network security, interfere with the operations of
+the college network or provide unauthorized services on the network.
+(e.g., switches, hubs, repeaters, wireless access points, modems -
+For additional clarification please see Appendix A.)
+
+Respect for one another's privacy
+
+Respect for others also means a respect for their privacy. Any
+unauthorized access to other's files, electronic mail, voicemail or
+other communications is not permitted. Likewise, unauthorized access
+into restricted system files is not permitted.
+
+Examples of technology use that do not respect one another's privacy
+include but are not limited to:
+
+Unauthorized tapping of telephones or network transmissions including
+wireless transmission (e.g., running network sniffers, keystroke loggers)
+
+Obtaining, possessing, using, or attempting to use someone else's
+password, PIN, PAC, voicemail ID or other electronic communications
+
+The transfer of ownership and/or granting access to your personal
+information technology accounts. Individual technology accounts are for
+the exclusive use of their owners
+
+The stewardly use of the college's information technologies
+
+We are stewards of technology; therefore God requires accountability in
+our use of these gifts.
+
+Examples of technology use that do not represent a stewardly use of the
+college's information technologies include but are not limited to:
+
+Using large amounts of fileserver space (e.g., storing a large number
+of personal mp3s, digital images, etc. that do not pertain to the
+educational, research, or service activities of the college or the
+administration thereof)
+
+Misuse of printers and printer supplies (e.g., printing extensive source
+materials such as entire chapters of books, taking paper from labs for
+personal use)
+
+Misuse of email (e.g., sending email to the entire campus for any purpose
+including spam, spyware, chain email, etc.)  The storing, accessing and
+dissemination of information
+
+As a community of individuals, Calvin College strives to balance an
+individual's right to personal privacy against the community's need to
+collect information for accountability, assessment, security, and other
+purposes. Calvin College classifies information using the following
+categories:
+
+Sensitive information: Information in this category should not be
+distributed without consideration of its sensitive nature. (See
+Appendix B)
+
+Private information is personal information that is accessible only by
+its owner and those to whom they entrust it, except under exceptional
+circumstances.
+
+Confidential information is normally treated as private, but may be
+accessed by authorized members of the College community under limited
+additional circumstances.
+
+Community information is distributed to the College community.
+
+Public Information: Information in this category is distributed without
+restriction. (See Appendix B).

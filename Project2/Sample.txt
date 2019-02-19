@@ -1,0 +1,13 @@
+This is a sample document. This is a small sample document. It has a 
+couple of paragraphs. This paragraph has five sentences. 
+ 
+The second paragraph has fewer sentences. This paragraph has a couple of 
+sentences, fewer than five.   
+ 
+The third paragraph fewer sentences too. I'm not sure how many 
+sentences I'll put in this paragraph, but it should be fewer than 
+five.  
+ 
+That makes for a very interesting small sample document, that has a 
+couple of paragraphs.  
+ 

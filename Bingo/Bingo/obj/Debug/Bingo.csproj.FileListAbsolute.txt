@@ -1,0 +1,6 @@
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\elc3\Visual Studio Projects\Bingo\Bingo\obj\Debug\Bingo.pdb

@@ -1,0 +1,13 @@
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\bin\Debug\Fern.exe.config
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\bin\Debug\Fern.exe
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\bin\Debug\Fern.pdb
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.csprojResolveAssemblyReference.cache
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\MainWindow.baml
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\MainWindow.g.cs
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\App.g.cs
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern_MarkupCompile.cache
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.g.resources
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.Properties.Resources.resources
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.csproj.GenerateResource.Cache
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.exe
+C:\Users\elc3\Visual Studio Projects\Fern\Fern\obj\Debug\Fern.pdb

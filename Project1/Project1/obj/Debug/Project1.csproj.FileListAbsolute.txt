@@ -1,0 +1,6 @@
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\elc3\Visual Studio Projects\Project1\Project1\obj\Debug\Project1.pdb
